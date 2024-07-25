@@ -1,0 +1,8 @@
+DOMAIN=example.atlassian.net
+AUTH_EMAIL=mail@mail.com
+AUTH_TOKEN=
+DEPTH=all
+SORT=modified-date
+STATUS=current
+BODY_FORMAT=atlas_doc_format
+LIMIT=25
